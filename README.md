@@ -29,7 +29,6 @@ A terminal-based implementation of the classic **Minesweeper** game, written in 
 Compile the code:
 
   ```bash
-Copy code
 gcc -o minesweeper main.c minesweeper.c -lm
 ```
 Run the game:
