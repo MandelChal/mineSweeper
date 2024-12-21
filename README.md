@@ -24,8 +24,8 @@ A terminal-based implementation of the classic **Minesweeper** game, written in 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/minesweeper-in-c.git
-   cd minesweeper-in-c
+   git clone https://github.com/yourusername/minesweeperc.git
+   cd minesweeper
 Compile the code:
 
 bash
@@ -36,6 +36,7 @@ Run the game:
 bash
 Copy code
 ./minesweeper
+
 How to Play
 Objective: Uncover all cells that do not contain mines.
 Game Commands:
@@ -68,3 +69,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
